@@ -4,6 +4,8 @@
 
 CLI to standardized git commits messages.
 
+:warning: **In development**
+
 ## How Install
 
 - Install:
