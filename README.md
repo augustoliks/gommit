@@ -9,13 +9,13 @@ CLI to standardized git commits messages.
 - Install:
 
 ```bash
-curl https://raw.githubusercontent.com/augustoliks/gommit/main/scripts/install.sh | bash
+wget https://github.com/augustoliks/gommit/blob/main/bin/gommit -O /usr/local/bin/
 ```
 
 - Uninstall:
 
 ```bash
-curl https://raw.githubusercontent.com/augustoliks/gommit/main/scripts/uninstall.sh | bash
+rm /usr/local/bin/gommit
 ```
 
 ## Pattern Suggested
