@@ -1,0 +1,47 @@
+# github.com/AlecAivazis/survey/v2 v2.2.12
+## explicit
+github.com/AlecAivazis/survey/v2
+github.com/AlecAivazis/survey/v2/core
+github.com/AlecAivazis/survey/v2/terminal
+# github.com/Netflix/go-expect v0.0.0-20210429232723-e923ed2d1db5
+## explicit
+# github.com/creack/pty v1.1.11
+## explicit
+# github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c
+## explicit
+# github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
+github.com/kballard/go-shellquote
+# github.com/kr/pty v1.1.8
+## explicit
+# github.com/kr/text v0.2.0
+## explicit
+# github.com/mattn/go-colorable v0.1.8
+## explicit
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
+## explicit
+github.com/mgutz/ansi
+# github.com/stretchr/testify v1.7.0
+## explicit
+# golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
+## explicit
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.0.0-20210511113859-b0526f3d8744
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.0.0-20210503060354-a79de5458b56
+## explicit
+golang.org/x/term
+# golang.org/x/text v0.3.6
+## explicit
+golang.org/x/text/transform
+golang.org/x/text/width
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit
+# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+## explicit
