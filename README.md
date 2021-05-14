@@ -11,7 +11,7 @@ CLI to standardized git commits messages.
 - Install:
 
 ```bash
-wget https://github.com/augustoliks/gommit/raw/main/bin/gommit -O /usr/local/bin/
+wget https://github.com/augustoliks/gommit/raw/main/bin/linux/gommit -O /usr/local/bin/gommit
 ```
 
 - Uninstall:
