@@ -86,11 +86,13 @@ func main() {
 	}
 
 	fmt.Printf(
-		"%s(%s): %s #%s [!%s]",
+		"\n%s(%s): %s #%s [!%s]\n\n",
 		strings.Split(answers.Action, ":")[0],
 		strings.Split(answers.Topic, ":")[0],
 		answers.Message,
 		strings.Split(answers.Tag, ":")[0],
 		answers.TicketNum,
 	)
+
+	fmt.Scanf("h")
 }
