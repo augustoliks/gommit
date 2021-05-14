@@ -8,17 +8,7 @@ CLI to standardized git commits messages.
 
 ## How Install
 
-- Install:
-
-```bash
-wget https://github.com/augustoliks/gommit/raw/main/bin/linux/gommit -O /usr/local/bin/gommit
-```
-
-- Uninstall:
-
-```bash
-rm /usr/local/bin/gommit
-```
+[![asciicast](https://asciinema.org/a/413917.svg)](https://asciinema.org/a/413917)
 
 ## Pattern Suggested
 
